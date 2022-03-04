@@ -1,4 +1,4 @@
-# Sanfrancisco-Tees-Data-Analsis-BI
+# San Francisco-Trees-Data-Analsis-BI
 
 ## Technology Stack:
 
